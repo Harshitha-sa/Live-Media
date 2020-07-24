@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784711504830",
+    "firebase_url": "https://live-media-e8f13.firebaseio.com",
+    "project_id": "live-media-e8f13",
+    "storage_bucket": "live-media-e8f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784711504830:android:f8d9370df965746db61fef",
+        "android_client_info": {
+          "package_name": "com.example.livemedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784711504830-gmpp6fq556nua5cnknk88non5vff6fkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGJDJDZix4sc-z_o2J8BiwCygbFWBTgT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784711504830-gmpp6fq556nua5cnknk88non5vff6fkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
